@@ -1,0 +1,19 @@
+===================================================
+Ftp Bilgileri
+
+Sunucu:         ftp://cukurovabel.site
+Kullanıcı Adı:  u773239193
+Şifre:          Q>u5X*LML
+===================================================
+Veritaban Bilgileri
+
+Veritaban Adı:  u773239193_cukurova
+Kullanıcı Adı:  u773239193_root
+Şifre:          b&o*?WlVY0
+===================================================
+Çukurova Site Giriş Bilgileri
+
+Site:           https://cukurovabel.site/wp-login.php
+Kullanıcı Adı:  admin
+Şifre:          ^3WemzrwGryhxCxez*
+===================================================
